@@ -23,12 +23,16 @@ cmux-native execution model:
 
 ```bash
 npm install --global pi-cmux-subagents
+# or
+bun add --global pi-cmux-subagents
 ```
 
 Until the first npm release:
 
 ```bash
 npm install --global github:manaflow-ai/pi-cmux-subagents
+# or
+bun add --global github:manaflow-ai/pi-cmux-subagents
 ```
 
 Do not use `pi install`. This is an explicit launcher, not an auto-loaded Pi
